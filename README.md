@@ -151,9 +151,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## 🙌 Acknowledgments
-
-- Groq for providing access to LLaVA and LLaMA models.
-- OpenAI’s resources for inspiration and guidance.
-- The open-source community for the tools and libraries used in this project. ❤️
 
