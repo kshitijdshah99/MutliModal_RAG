@@ -84,8 +84,7 @@ Welcome to the **Multimodal RAG** project! This repository provides an end-to-en
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/multimodal-rag.git
-   cd multimodal-rag
+   git clone https://github.com/kshitijdshah99/MultiModal_RAG.git
    ```
 
 2. Install required dependencies:
@@ -98,7 +97,7 @@ Welcome to the **Multimodal RAG** project! This repository provides an end-to-en
 
 4. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run MultiModal_RAG.py
    ```
 
 ---
