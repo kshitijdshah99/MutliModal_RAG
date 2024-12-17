@@ -121,6 +121,14 @@ Welcome to the **Multimodal RAG** project! This repository is a powerhouse of in
 
 ---
 
+## User Interface👀
+Login/Sign-up Page
+![](https://github.com/kshitijdshah99/MutliModal_RAG/blob/main/Login_page.png)
+
+Home Page
+![](https://github.com/kshitijdshah99/MutliModal_RAG/blob/main/Frontend.png)
+ 
+
 ## 📂 File Structure
 
 - `MultiModal_RAG.py`: Main Streamlit application script.
