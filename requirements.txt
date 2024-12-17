@@ -1,0 +1,14 @@
+beautifulsoup4
+faiss_cpu
+groq
+langchain_ollama
+nltk
+numpy
+opencv_python
+Requests
+streamlit
+torch
+transformers
+youtube_transcript_api
+pymupdf
+streamlit
