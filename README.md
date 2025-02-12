@@ -149,7 +149,7 @@ Home Page
 
 ## 🤝 Contributions
 
-We’d love to hear from you! Whether it’s bug fixes, feature suggestions, or new ideas, contributions are always welcome. Feel free to fork the repository, make your changes, and submit a pull request. ✨
+I’d love to hear from you! Whether it’s bug fixes, feature suggestions, or new ideas, contributions are always welcome. Feel free to fork the repository, make your changes, and submit a pull request. ✨
 
 ---
 
